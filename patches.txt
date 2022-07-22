@@ -1,4 +1,7 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
+hide-cast-button
+hide-shorts-button
+# INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 minimized-playback-music
 tasteBuilder-remover
 hide-get-premium
@@ -18,4 +21,3 @@ sponsorblock
 force-vp9-codec
 video-ads
 general-ads
-# INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
