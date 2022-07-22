@@ -1,3 +1,21 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-
+minimized-playback-music
+tasteBuilder-remover
+hide-get-premium
+compact-header
+upgrade-button-remover
+background-play
+music-video-ads
+codecs-unlock
+exclusive-audio-playback
+seekbar-tapping
+minimized-playback
+amoled
+disable-create-button
+return-youtube-dislike
+custom-branding
+sponsorblock
+force-vp9-codec
+video-ads
+general-ads
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
